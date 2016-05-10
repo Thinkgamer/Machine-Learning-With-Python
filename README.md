@@ -6,6 +6,8 @@ Machine-Learning-With-Python
 http://blog.csdn.net/gamer_gyt/article/details/51113753<br/>
 2：【关联规则】FP-Tree算法的Python代码实现，具体分析请参考博客：<br/>
 http://blog.csdn.net/gamer_gyt/article/details/51113753<br/>
+3：【决策树算法】基于信息论的三种决策树算法之ID3算法的Python代码实现，具体分析请参考博客：<br/>
+http://blog.csdn.net/gamer_gyt/article/details/51242815<br/>
 
 
 
