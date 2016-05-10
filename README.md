@@ -8,6 +8,8 @@ http://blog.csdn.net/gamer_gyt/article/details/51113753<br/>
 http://blog.csdn.net/gamer_gyt/article/details/51113753<br/>
 3：【决策树算法】基于信息论的三种决策树算法之ID3算法的Python代码实现，具体分析请参考博客：<br/>
 http://blog.csdn.net/gamer_gyt/article/details/51242815<br/>
+4：【聚类算法】二分-kMeans算法（二分K均值聚类）的Python代码实现，具体分析请参考博客：<br/>
+http://blog.csdn.net/gamer_gyt/article/details/48949227<br/>
 
 
 
