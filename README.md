@@ -10,9 +10,11 @@ http://blog.csdn.net/gamer_gyt/article/details/51113753<br/>
 http://blog.csdn.net/gamer_gyt/article/details/51242815<br/>
 4：【聚类算法】二分-kMeans算法（二分K均值聚类）分析与Python代码实现，具体分析请参考博客：<br/>
 http://blog.csdn.net/gamer_gyt/article/details/48949227<br/>
-5：【分类算法Logistic回归算法分析与Python代码实现，具体分析请参考博客：<br/>
+5：【分类算法】Logistic回归算法分析与Python代码实现，具体分析请参考博客：<br/>
 http://blog.csdn.net/gamer_gyt/article/details/51236978<br/>
 http://blog.csdn.net/gamer_gyt/article/details/51242150<br/>
+6：【分类算法】AdaBoost算法分析与Python代码实现，具体分析请参考博客：<br/>
+http://blog.csdn.net/gamer_gyt/article/details/51372309<br/>
 
 
 
@@ -22,4 +24,5 @@ http://blog.csdn.net/gamer_gyt/<br/>
 
 如有问题请联系：<br/>
 QQ：1923361654<br/>
+WeChat：gyt13342445911<br/>
 Email：thinkgamer_gyt@gmail.com<br/>
