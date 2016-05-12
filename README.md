@@ -15,6 +15,9 @@ http://blog.csdn.net/gamer_gyt/article/details/51236978<br/>
 http://blog.csdn.net/gamer_gyt/article/details/51242150<br/>
 6：【分类算法】AdaBoost算法分析与Python代码实现，具体分析请参考博客：<br/>
 http://blog.csdn.net/gamer_gyt/article/details/51372309<br/>
+7：【分类算法】朴素贝叶斯算法分析与Python代码实现，具体分析请参考博客：<br/>
+http://blog.csdn.net/gamer_gyt/article/details/47205371<br/>
+http://blog.csdn.net/gamer_gyt/article/details/47860945<br/>
 
 
 
