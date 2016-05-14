@@ -4,20 +4,29 @@ Machine-Learning-With-Python
 
 1：【关联规则】Apriori算法分析与Python代码实现，具体分析请参考博客：<br/>
 http://blog.csdn.net/gamer_gyt/article/details/51113753<br/>
+
 2：【关联规则】FP-Tree算法分析与Python代码实现，具体分析请参考博客：<br/>
 http://blog.csdn.net/gamer_gyt/article/details/51113753<br/>
+
 3：【决策树算法】基于信息论的三种决策树算法之ID3算法分析与Python代码实现，具体分析请参考博客：<br/>
 http://blog.csdn.net/gamer_gyt/article/details/51242815<br/>
+
 4：【聚类算法】二分-kMeans算法（二分K均值聚类）分析与Python代码实现，具体分析请参考博客：<br/>
 http://blog.csdn.net/gamer_gyt/article/details/48949227<br/>
-5：【分类算法】Logistic回归算法分析与Python代码实现，具体分析请参考博客：<br/>
+
+5：【回归算法】Logistic回归算法分析与Python代码实现，具体分析请参考博客：<br/>
 http://blog.csdn.net/gamer_gyt/article/details/51236978<br/>
 http://blog.csdn.net/gamer_gyt/article/details/51242150<br/>
+
 6：【分类算法】AdaBoost算法分析与Python代码实现，具体分析请参考博客：<br/>
 http://blog.csdn.net/gamer_gyt/article/details/51372309<br/>
+
 7：【分类算法】朴素贝叶斯算法分析与Python代码实现，具体分析请参考博客：<br/>
 http://blog.csdn.net/gamer_gyt/article/details/47205371<br/>
 http://blog.csdn.net/gamer_gyt/article/details/47860945<br/>
+
+8：【回归算法】预测数值型数据-回归（Regression）分析与Python代码实现，具体分析请参考博客：<br/>
+http://blog.csdn.net/gamer_gyt/article/details/51405251<br/>
 
 
 
