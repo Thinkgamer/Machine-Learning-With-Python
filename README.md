@@ -28,6 +28,8 @@ http://blog.csdn.net/gamer_gyt/article/details/47860945<br/>
 8：【回归算法】预测数值型数据-回归（Regression）分析与Python代码实现，具体分析请参考博客：<br/>
 http://blog.csdn.net/gamer_gyt/article/details/51405251<br/>
 
+9：【降维技术】PCA降维技术分析与Python代码实现，具体分析请参考博客：<br/>
+http://blog.csdn.net/gamer_gyt/article/details/51418069<br/>
 
 
  
