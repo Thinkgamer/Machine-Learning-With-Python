@@ -31,6 +31,8 @@ http://blog.csdn.net/gamer_gyt/article/details/51405251<br/>
 9：【降维技术】PCA降维技术分析与Python代码实现，具体分析请参考博客：<br/>
 http://blog.csdn.net/gamer_gyt/article/details/51418069<br/>
 
+10：【推荐系统】基于标签的推荐系统，具体分析请参考博客：<br/>
+http://blog.csdn.net/gamer_gyt/article/details/51684716<br/>
 
  
 <br/><br/>CSDN博客地址：<br/>
