@@ -34,7 +34,12 @@ http://blog.csdn.net/gamer_gyt/article/details/51418069<br/>
 10：【推荐系统】基于标签的推荐系统，具体分析请参考博客：<br/>
 http://blog.csdn.net/gamer_gyt/article/details/51684716<br/>
 
- 
+11：【推荐系统】基于图推荐系统，具体分析请参考博客：<br/>
+http://blog.csdn.net/gamer_gyt/article/details/51694250<br/>
+
+12：【推荐系统】基于用户和Item的协同过滤推荐算法，具体分析请参考博客：<br/>
+http://blog.csdn.net/gamer_gyt/article/details/51346159<br/>
+
 <br/><br/>CSDN博客地址：<br/>
 http://blog.csdn.net/gamer_gyt/<br/>
 
