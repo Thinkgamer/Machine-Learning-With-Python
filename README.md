@@ -40,6 +40,9 @@ http://blog.csdn.net/gamer_gyt/article/details/51694250<br/>
 12：【推荐系统】基于用户和Item的协同过滤推荐算法，具体分析请参考博客：<br/>
 http://blog.csdn.net/gamer_gyt/article/details/51346159<br/>
 
+13：基于随机变量的熵来进行数据建模和分析<br/>
+http://blog.csdn.net/gamer_gyt/article/details/53729868<br/>
+
 <br/><br/>CSDN博客地址：<br/>
 http://blog.csdn.net/gamer_gyt/<br/>
 
