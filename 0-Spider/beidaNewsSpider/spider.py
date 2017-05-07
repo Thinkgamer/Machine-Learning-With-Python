@@ -87,15 +87,25 @@ class BeiDaSpider:
             if i==1:
                 href_list = self.parse_onePage_href(self.root_href + "node_185.htm")
                 for href in href_list:
-                    self.parse_oneNew(href)
-                    time.sleep(5)
+                    try:
+                        self.parse_oneNew(href)
+                    except Exception as e:
+                        print(e)
+                    finally:
+                        pass
+            #        time.sleep(1)
                     # break
             else:
                 href_list = self.parse_onePage_href(self.root_href + "node_185_" + str(i) + ".htm")
                 for href in href_list:
-                    self.parse_oneNew(href)
-                    time.sleep(5)
-            time.sleep(10)
+                    try:
+                        self.parse_oneNew(href)
+                    except Exception as e:
+                        print(e)
+                    finally:
+                        pass
+            #        time.sleep(1)
+            #time.sleep(2)
             # break
 
 
