@@ -19,6 +19,7 @@ tiebaname 目录为存放贴吧名字的目录，将要爬取的贴吧名字写�
 目录结构类似于：
 
 tiebaname
+
 --name.txt
 
 采用的是python 的beautifulSoup库，效果不太理想，但后续会逐步改善，可能换成别的框架
