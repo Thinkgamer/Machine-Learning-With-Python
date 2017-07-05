@@ -43,6 +43,9 @@ http://blog.csdn.net/gamer_gyt/article/details/51346159<br/>
 13：基于随机变量的熵来进行数据建模和分析<br/>
 http://blog.csdn.net/gamer_gyt/article/details/53729868<br/>
 
+14：推荐算法的回顾总结<br/>
+http://blog.csdn.net/gamer_gyt/article/details/74367714<br/>
+
 --------------------------
 # 数据采集样例代码
 文件夹为 spider，其内会逐步增加一些爬虫程序和数据，希望对你们有帮助
