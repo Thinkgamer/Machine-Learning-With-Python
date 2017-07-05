@@ -4,6 +4,7 @@ import scrapy
 import urllib
 import time
 
+
 class TiebaSpider(scrapy.Spider):
 
     name = 'tieba'
@@ -34,5 +35,5 @@ class TiebaSpider(scrapy.Spider):
         fw = open("data/%s_all_href.txt" % time.strftime('%Y%m%d'), "a")
         for ahref in ahref_list:
             href = "https://tieba.baidu.com" + ahref
-            fw.write(href+"\n")
+            fw.write(href + "\n")
         fw.close()
