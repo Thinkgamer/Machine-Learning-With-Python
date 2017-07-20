@@ -81,15 +81,15 @@ def twoCos(a,b):
 	return cos
 print 'a,b 二维夹角余弦距离：',twoCos((1,1),(2,2))
 
-
 def moreCos(a,b):
-	sum_fenzi = 0
-	sum_fenmu = 1
-	for i in range(len(a)):
-		sum_fenzi += a[i]*b[i]
-		sum_fenmu *= sqrt(a[i]**2 + b[i]**2 )
+    sum_fenzi = 0.0
+    sum_fenmu_1,sum_fenmu_2 = 0,0
+    for i in range(len(a)):
+        sum_fenzi += a[i]*b[i]
+        sum_fenmu_1 += a[i]**2 
+        sum_fenmu_2 += b[i]**2 
 
-	return sum_fenzi/sum_fenmu
+    return sum_fenzi/( sqrt(sum_fenmu_1) * sqrt(sum_fenmu_2) )
 print 'a,b 多维夹角余弦距离：',moreCos((1,1,1,1),(2,2,2,2))
 
 print '[+]------------汉明距离-----------'
