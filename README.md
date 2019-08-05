@@ -52,6 +52,9 @@ http://blog.csdn.net/gamer_gyt/article/details/74367714<br/>
 15：【推荐系统】基于协同的Slope One算法原理介绍和实现<br/>
 https://blog.csdn.net/Gamer_gyt/article/details/98210975
 
+16：【推荐系统】基于三部图网络结构的知识推荐算法<br/>
+https://blog.csdn.net/Gamer_gyt/article/details/98508579
+
 --------------------------
 # 数据采集样例代码
 文件夹为 spider，其内会逐步增加一些爬虫程序和数据，希望对你们有帮助
